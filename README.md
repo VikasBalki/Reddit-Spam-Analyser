@@ -1,8 +1,6 @@
 # Reddit-Spam-Analyser
 A desktop application to detect educational spams on reddit platform 
 
-Steps to run reddit_spam_check.py:
-Install Reddit API -> pip3 install praw
-Keep dirty.csv and reddit_spam_check.py in same directory folder
-Run reddit_spam_check.py
+![Screenshot](https://user-images.githubusercontent.com/45537152/178098012-6b03d95e-eda2-4b15-93cd-3444f17096f4.png)
+
 
